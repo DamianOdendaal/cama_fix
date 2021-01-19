@@ -10,7 +10,7 @@
     <link href ="../Static/css/register.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <form action="create.php" method="post">
+        <form action="create_user.php" method="post">
             <br />
             <fieldset class="border">
                 <legend>Signup</legend>

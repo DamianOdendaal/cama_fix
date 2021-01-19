@@ -1,6 +1,6 @@
 <?php
     require_once ("Config/connect.php");
-    require_once ('mail_func.php');
+    // require_once ('mail_func.php');
     session_start();
     
     try
